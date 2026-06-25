@@ -1,0 +1,14 @@
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\bin\Debug\net9.0\HospedagemHotel.exe
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\bin\Debug\net9.0\HospedagemHotel.deps.json
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\bin\Debug\net9.0\HospedagemHotel.runtimeconfig.json
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\bin\Debug\net9.0\HospedagemHotel.dll
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\bin\Debug\net9.0\HospedagemHotel.pdb
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.dll
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\obj\Debug\net9.0\refint\HospedagemHotel.dll
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.pdb
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\obj\Debug\net9.0\HospedagemHotel.genruntimeconfig.cache
+C:\Users\Marcos\Desktop\Projetos\DIO\Desafios\HospedagemHotel\obj\Debug\net9.0\ref\HospedagemHotel.dll
